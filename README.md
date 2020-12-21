@@ -1,6 +1,6 @@
 # Unsupervised Label Refinement Improves Dataless Text Classification
 
-This repository contains the code and data for the paper [Unsupervised Label Refinement Improves Dataless Text Classification]()
+This repository contains the code and data for the paper [Unsupervised Label Refinement Improves Dataless Text Classification](https://arxiv.org/abs/2012.04194)
 
 ## repo structure
 - dual-encoder: with cosine and L2 distances
